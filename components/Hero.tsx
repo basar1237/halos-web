@@ -11,7 +11,7 @@ export default function Hero() {
         <span className="eyebrow">Sebze &amp; Meyve Hali İşletim Sistemi</span>
 
         <h1 className="mx-auto mt-6 max-w-4xl text-4xl font-extrabold leading-tight tracking-tight text-slate-900 md:text-6xl">
-          Halinizi kağıtla değil,{" "}
+          Halinizi eski masaüstü programıyla değil,{" "}
           <span className="text-halos-600">yapay zekayla</span> yönetin.
         </h1>
 
