@@ -14,16 +14,16 @@ export default function Contact() {
 
             <div className="mt-8 space-y-4 text-sm">
               <a
-                href="tel:+908500000000"
+                href="tel:+905465314910"
                 className="flex items-center gap-3 text-slate-700 hover:text-halos-700"
               >
-                <IconBox>📞</IconBox> 0850 000 00 00
+                <IconBox>📞</IconBox> 0546 531 49 10
               </a>
               <a
-                href="mailto:info@halos.com.tr"
+                href="mailto:basaryldrm1237@gmail.com"
                 className="flex items-center gap-3 text-slate-700 hover:text-halos-700"
               >
-                <IconBox>✉️</IconBox> info@halos.com.tr
+                <IconBox>✉️</IconBox> basaryldrm1237@gmail.com
               </a>
               <div className="flex items-center gap-3 text-slate-700">
                 <IconBox>📍</IconBox> İstanbul, Türkiye
@@ -33,7 +33,7 @@ export default function Contact() {
 
           {/* Statik form — Vercel'de Formspree/Resend ile bağlanabilir */}
           <form
-            action="mailto:info@halos.com.tr"
+            action="mailto:basaryldrm1237@gmail.com"
             method="post"
             encType="text/plain"
             className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm md:p-8"
