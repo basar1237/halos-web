@@ -5,7 +5,7 @@ import { useState } from "react";
 const NAV = [
   { href: "#ozellikler", label: "Özellikler" },
   { href: "#moduller", label: "Modüller" },
-  { href: "#neden", label: "Neden HalOS?" },
+  { href: "#neden", label: "Neden HalosERP?" },
   { href: "#fiyat", label: "Fiyatlandırma" },
   { href: "#iletisim", label: "İletişim" },
 ];
@@ -21,7 +21,7 @@ export default function Header() {
             H
           </span>
           <span className="text-lg font-bold tracking-tight text-slate-900">
-            Hal<span className="text-halos-600">OS</span>
+            Halos<span className="text-halos-600">ERP</span>
           </span>
         </a>
 

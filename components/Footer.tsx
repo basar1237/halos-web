@@ -8,14 +8,14 @@ export default function Footer() {
               H
             </span>
             <span className="text-lg font-bold text-slate-900">
-              Hal<span className="text-halos-600">OS</span>
+              Halos<span className="text-halos-600">ERP</span>
             </span>
           </div>
 
           <nav className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm text-slate-500">
             <a href="#ozellikler" className="hover:text-halos-700">Özellikler</a>
             <a href="#moduller" className="hover:text-halos-700">Modüller</a>
-            <a href="#neden" className="hover:text-halos-700">Neden HalOS?</a>
+            <a href="#neden" className="hover:text-halos-700">Neden HalosERP?</a>
             <a href="#fiyat" className="hover:text-halos-700">Fiyatlandırma</a>
             <a href="#iletisim" className="hover:text-halos-700">İletişim</a>
           </nav>
@@ -23,7 +23,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t border-slate-200 pt-6 text-center text-xs text-slate-400">
           <p>
-            © {new Date().getFullYear()} HalOS — Sebze Meyve Hal ERP. Türk hal
+            © {new Date().getFullYear()} HalosERP — Sebze Meyve Hal ERP. Türk hal
             mevzuatına (5957 sayılı Kanun · HKS · GİB e-Belge) uyumludur.
           </p>
           <p className="mt-2">

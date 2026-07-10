@@ -21,14 +21,14 @@ export default function Compare() {
       <div className="container-x">
         <div className="text-center">
           <span className="eyebrow">Karşılaştırma</span>
-          <h2 className="heading mt-5">HalOS vs. klasik hal programları</h2>
+          <h2 className="heading mt-5">HalosERP vs. klasik hal programları</h2>
           <div className="heading-divider" />
         </div>
 
         <div className="mx-auto mt-12 max-w-3xl overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
           <div className="grid grid-cols-[1fr_auto_auto] bg-halos-600 text-sm font-semibold text-white">
             <div className="px-5 py-4">Özellik</div>
-            <div className="w-24 px-4 py-4 text-center">HalOS</div>
+            <div className="w-24 px-4 py-4 text-center">HalosERP</div>
             <div className="w-28 px-4 py-4 text-center text-halos-100">Diğerleri</div>
           </div>
           {ROWS.map((r, i) => (

@@ -1,7 +1,7 @@
 const REASONS = [
   {
     title: "Bulut doğuştan",
-    desc: "Kurulum yok, her yerden erişim, otomatik güncelleme ve yedek. Rakipler Windows masaüstüne buluta sonradan yamalarken HalOS ilk günden bulutta.",
+    desc: "Kurulum yok, her yerden erişim, otomatik güncelleme ve yedek. Rakipler Windows masaüstüne buluta sonradan yamalarken HalosERP ilk günden bulutta.",
     icon: "☁️",
   },
   {
@@ -36,13 +36,13 @@ export default function WhyHalOS() {
     <section id="neden" className="section bg-white">
       <div className="container-x">
         <div className="text-center">
-          <span className="eyebrow">Neden HalOS?</span>
+          <span className="eyebrow">Neden HalosERP?</span>
           <h2 className="heading mt-5">
-            Diğer hal programları kayıt tutar. HalOS işi yönetir.
+            Diğer hal programları kayıt tutar. HalosERP işi yönetir.
           </h2>
           <div className="heading-divider" />
           <p className="mx-auto mt-5 max-w-2xl text-slate-600">
-            Piyasadaki programların çoğu 2000'lerin masaüstü mimarisinde. HalOS,
+            Piyasadaki programların çoğu 2000'lerin masaüstü mimarisinde. HalosERP,
             bulut + yapay zeka + mobil üzerine sıfırdan kuruldu.
           </p>
         </div>

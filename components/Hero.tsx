@@ -16,7 +16,7 @@ export default function Hero() {
         </h1>
 
         <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-600 md:text-xl">
-          HalOS; HKS künye, hal tipi e-fatura, müstahsil makbuzu, cari, kasa ve
+          HalosERP; HKS künye, hal tipi e-fatura, müstahsil makbuzu, cari, kasa ve
           çek/senet süreçlerini tek ekranda toplar — üstüne borcu hatırlatan,
           fireyi önceden söyleyen, kârı cebinizde gösteren bir AI ekler.
         </p>
